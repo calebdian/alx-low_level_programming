@@ -1,1 +1,1 @@
-Nested constructs if else
+pointers array and strings
